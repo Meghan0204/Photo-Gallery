@@ -1,3 +1,6 @@
 # Photo Gallery
+This photo gallery website was developed as part of my Responsive Web Design certification from FreeCodeCamp.org. It demonstrates my proficiency in creating responsive layouts, ensuring optimal viewing across various devices.
 
-## This is a photo gallery I created using FreeCodeCamp.org as part of my Responsive Web Design certification.
+
+# Technologies Used
+HTML, CSS, Flexbox Design, Responsive Web Design, GitHub
